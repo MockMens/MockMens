@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Mick
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning making games with the Unity Game Engine
-- 💞️ I’m looking to collaborate on my game Space Explorer
+i make stuff (mostly cubing related) and post it here
 
 <!---
 MockMens/MockMens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
